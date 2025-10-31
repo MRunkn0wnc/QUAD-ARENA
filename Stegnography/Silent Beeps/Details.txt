@@ -1,0 +1,14 @@
+
+DESCRIPTION
+-------------------------------------------------------------------------
+
+A mysterious audio clip has surfaced — just a series of beeps and pauses... or is it something more?
+They say the past whispers secrets. Tune in and uncover the hidden message buried in the sound.
+Your ears and decoding skills are your best tools now. Can you hear the flag?
+
+-------------------------------------------------------------------------
+
+HINT : Timing is everything — dots and dashes speak louder than noise.
+
+FlAG : QAr3na_CTF{M0RS3AUDIO}
+

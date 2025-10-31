@@ -1,0 +1,14 @@
+ 
+
+DESCRIPTION
+-------------------------------------------------------------------------
+
+A seemingly innocent image was recovered from a suspect’s device. It looked like just another sunset — but agents believe it carries a hidden message.
+Some say secrets aren’t always encrypted; sometimes they’re just... overlooked.
+Can you uncover what’s quietly whispered between the pixels and beyond the frame?
+
+-------------------------------------------------------------------------
+
+HINT : Sometimes what's hidden isn’t in the image — it’s around it. Check metadata.
+
+FLAG : QAr3na_CTF{h1dd3n_1n_pLa1n_m3tadatA}

@@ -1,0 +1,16 @@
+ 
+
+DESCRIPTION
+
+----------------------------------------------------------------------------------------------
+
+An old mathematician encoded a secret using the numbers from nature’s blueprint. The ciphertext looks readable, but something seems... shifted.
+Can you reverse the sequence and uncover the real flag?
+
+----------------------------------------------------------------------------------------------
+
+
+HINT : Always Remember the FLAG format
+
+
+FLAG : QAr3na_CTF{fib0_is_n0t_safe}
