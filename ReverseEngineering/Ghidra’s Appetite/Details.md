@@ -12,3 +12,5 @@ Use your reverse engineering skills to peek inside and reveal the truth. Don't t
 HINT : Ghidra knows how to read binary — maybe you should too. Try digging through the verify function.
 
 FLAG :-- QAr3na_CTF{R3V_B1NARY}
+
+Use GHIDRA and check the source code
