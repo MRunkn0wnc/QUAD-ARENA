@@ -42,5 +42,4 @@ def decrypt(ciphertext):
 ciphertext = "qbs3qf_pon{qwa0_hd_i0t_xkud}"
 flag = decrypt(ciphertext)
 print(flag)  # This will print the decrypted flag
-```
 
