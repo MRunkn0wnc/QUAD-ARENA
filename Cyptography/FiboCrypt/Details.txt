@@ -15,7 +15,7 @@ HINT : Always Remember the FLAG format
 
 FLAG : QAr3na_CTF{fib0_is_n0t_safe}
 
-```PYTHON
+```
 #decode
 def fib(n):
     a, b = 0, 1
